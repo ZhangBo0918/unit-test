@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Counter.vue renders props.count when passed 1`] = `"<div><span>Count:0</span> <button>按钮</button></div>"`;
